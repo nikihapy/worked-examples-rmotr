@@ -1,6 +1,6 @@
 # Get grade letter
 
-Write a function `get_grade_letter` that receives a score and you should return:
+Define a function `get_grade_letter` that receives a score and you should return:
 
 'A' if the score is 90 or above
 

@@ -1,6 +1,6 @@
 # Color mixer
 
-Write a function `color_mixer` that receives two colors `color1` and `color2` 
+Define a function `color_mixer` that receives two colors `color1` and `color2` 
 and returns the color resulting from mixing them in EITHER ORDER. 
 The colors received are either `red`, `blue`, or `yellow` and you should return:
 
