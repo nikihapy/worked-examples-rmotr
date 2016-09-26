@@ -1,11 +1,14 @@
 # Color mixer
 
-Write a function “color_mixer” that receives two colors ‘color1’ and ‘color2’ 
+Write a function `color_mixer` that receives two colors `color1` and `color2` 
 and returns the color resulting from mixing them in EITHER ORDER. 
-The colors received are either “red”, “blue” or “yellow” and you should return:
-“Magenta” if the colors mixed are red and blue
-“Green” if the colors mixed are blue and yellow
-“Orange” if the colors mixed are yellow and red
+The colors received are either `red`, `blue`, or `yellow` and you should return:
+
+`Magenta` if the colors mixed are `red` and `blue`
+
+`Green` if the colors mixed are `blue` and `yellow`
+
+`Orange` if the colors mixed are `yellow` and `red`
 
 
 Examples:
