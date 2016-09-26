@@ -8,4 +8,3 @@ class ConditionalMultiplicationTestCase(unittest.TestCase):
 
     def test_false_condition(self):
         self.assertEqual(conditional_multiplication(False, 5), 5)
-
