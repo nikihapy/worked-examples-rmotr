@@ -1,1 +1,2 @@
-# empty
+def is_string(variable):
+    pass
