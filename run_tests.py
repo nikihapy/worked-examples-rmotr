@@ -91,6 +91,7 @@ def write_solution_test_file(_dir, solution):
     test_file_name = os.path.join(abs_path, 'test_' + solution.path.name)
     with open(test_file_name, 'w') as test_f, solution.path.open('r') as solution_f:
         test_f.write(solution_f.read())
+        test_f.write('\n\n')
         test_f.write(solution.lesson.test_data)
 
 
