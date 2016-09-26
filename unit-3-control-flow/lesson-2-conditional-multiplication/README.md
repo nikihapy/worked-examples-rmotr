@@ -1,7 +1,8 @@
 # Conditional multiplication
 
-Write a function that receives a boolean and a number and returns a number.
-If the boolean is True the number returned is multiplied by 10.
+Define a function `conditional_multiplication` that receives a boolean and a 
+number and returns a number. If the boolean is True the number returned is 
+multiplied by 10.
 
 Examples:
 

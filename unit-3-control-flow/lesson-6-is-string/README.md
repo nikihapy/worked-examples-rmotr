@@ -1,7 +1,7 @@
 # Is string
 
-Write a function that receives a variable and if it is a string returns
-True and if not returns False
+Define a function `is_string` that receives a variable and if it is a string 
+returns `True` and if not returns `False`.
 
 Examples:
 

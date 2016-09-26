@@ -1,7 +1,7 @@
 # Greater than 20
 
-Write a function that receives a number and if it is greater than 20 returns
-True and if not returns False
+Define a function `greater_than_20` that receives a number and if it is greater 
+than 20 returns `True` and if not returns `False`.
 
 Examples:
 
