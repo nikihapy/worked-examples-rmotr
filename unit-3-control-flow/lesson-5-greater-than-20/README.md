@@ -1,13 +1,13 @@
 # Greater than 20
 
 Write a function that receives a number and if it is greater than 20 returns
-'yes' and if not returns 'no'
+True and if not returns False
 
 Examples:
 
 ```python
 >>> greater_than_20(42)
-yes
+True
 >>> greater_than_20(19)
-no
+False
 ```

@@ -1,13 +1,13 @@
 # Is string
 
 Write a function that receives a variable and if it is a string returns
-'yes' and if not returns 'no'
+True and if not returns False
 
 Examples:
 
 ```python
 >>> is_string('happy')
-yes
+True
 >>> is_string(27)
-no
+False
 ```
