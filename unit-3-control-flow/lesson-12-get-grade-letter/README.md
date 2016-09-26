@@ -3,9 +3,13 @@
 Write a function `get_grade_letter` that receives a score and you should return:
 
 'A' if the score is 90 or above
+
 'B' if the score is 80 to 89
+
 'C' if the score is 70 to 79
+
 'D' if the score is 60 to 69
+
 'F' if the score is less than 60
 
 
