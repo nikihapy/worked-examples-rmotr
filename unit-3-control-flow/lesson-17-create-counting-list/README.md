@@ -11,9 +11,9 @@ Examples:
 
 ```python
 >>> create_counting_list(7)
-[1,2,3,4,5,6,7]
+[1, 2, 3, 4, 5, 6, 7]
 >>> create_counting_list(3)
-[1,2,3]
+[1, 2, 3]
 >>> create_counting_list(0)
 []
 >>> create_counting_list(-1)

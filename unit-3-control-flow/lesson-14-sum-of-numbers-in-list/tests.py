@@ -10,7 +10,7 @@ class SumOfNumbersInListTestCase(unittest.TestCase):
         self.assertEqual(sum_of_numbers_in_list([4]), 4)
 
     def test_list_of_2(self):
-        self.assertEqual(sum_of_numbers_in_list([2,3]), 5)
+        self.assertEqual(sum_of_numbers_in_list([2, 3]), 5)
 
     def test_list_of_3(self):
-        self.assertEqual(sum_of_numbers_in_list([2,3,4]), 9)
+        self.assertEqual(sum_of_numbers_in_list([2, 3, 4]), 9)

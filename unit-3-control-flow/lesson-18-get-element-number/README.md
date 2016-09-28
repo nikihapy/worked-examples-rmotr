@@ -8,10 +8,10 @@ match.
 Examples:
 
 ```python
->>> get_element_number(['a','b','c'], 'c')
+>>> get_element_number(['a', 'b', 'c'], 'c')
 2
->>> get_element_number(['a','a','a'], 'a')
+>>> get_element_number(['a', 'a', 'a'], 'a')
 0
->>> get_element_number(['a','b','c'], 's')
+>>> get_element_number(['a', 'b', 'c'], 's')
 no match
 ```
