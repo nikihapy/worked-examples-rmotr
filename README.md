@@ -18,12 +18,12 @@ This course will take you through the fundamentals of programming building from 
 To run all the tests for the assignment lesson use the `run_tests.py` script. Examples:
 
 ```bash
-$ python run_tests.py  # Run all tests
-$ python run_tests.py  -v # Run all tests including logging info
-$ python run_tests.py -u 1  # Run tests just for the unit 1
-$ python run_tests.py -u 5 8  # Run tests just for units 5 and 8
-$ python run_tests.py -g string  # Run tests for lessons that contain the
-                                 # keyword 'string' in their name
+$ python run_tests.py                   # Run all tests
+$ python run_tests.py  -v               # Run all tests including logging info
+$ python run_tests.py -u 1              # Run tests just for the unit 1
+$ python run_tests.py -u 5 8            # Run tests just for units 5 and 8
+$ python run_tests.py -g string         # Run tests for lessons that contain the
+                                        # keyword 'string' in their name
 $ python run_tests.py -g string length  # Run tests for lessons that contain
                                         # the keywords 'string' and 'length' in their name
 ```
