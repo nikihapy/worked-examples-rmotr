@@ -9,6 +9,6 @@ You are not required to know the concepts of `function` in python. All you need 
 *Hint*: The solution to this assignment is a single line of code. 
 
 examples:
-- If `s` contains "\*" then your answer should be "*****"
-- If `s` contains "hey" then your answer should be "heyheyheyheyhey"
-- if `s` contains "*.*" then your answer should be "*.**.**.**.**.*"
+- If `s` contains `"*"` then your answer should be `"*****"`
+- If `s` contains `"hey"` then your answer should be `"heyheyheyheyhey"`
+- if `s` contains `"*.*"` then your answer should be `"*.**.**.**.**.*"`
