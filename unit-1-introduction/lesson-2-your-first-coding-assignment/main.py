@@ -6,5 +6,5 @@ Check Instructions and Test cases for more details.
 
 
 def hello_world():
-    # return 'Hello World'
+    return 'Hello World'
     pass
