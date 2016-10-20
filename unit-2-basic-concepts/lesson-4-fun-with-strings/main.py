@@ -1,2 +1,6 @@
 def fun_with_strings(s):
-    return # Delete this comment and write your code here
+    return s*5
+	
+s=raw_input("Enter the string ")	
+result=fun_with_strings(s)
+print result
